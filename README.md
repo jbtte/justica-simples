@@ -1,6 +1,6 @@
 # Justiça Simples
 ## Apresentação
-O presente projeto tem é uma prova de conceito de uma funcionalidade que tem por objetivo simplificar a linguagem de processos, para que os cidadãos consigam acompanhá-los mesmo sem conhecimento jurídico.
+O presente projeto é uma prova de conceito de uma funcionalidade que tem por objetivo simplificar a linguagem de processos, para que os cidadãos consigam acompanhá-los mesmo sem conhecimento jurídico.
 
 **O banco de dados utilizado para desenvolvimento e teste não está conectado ao acervo de processo de nenhum Tribunal de Justiça.**
 
